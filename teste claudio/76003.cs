@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace teste_claudio
 {
-    internal class Class1
+    internal class _76003
     {
     }
 }
