@@ -8,6 +8,6 @@ namespace teste_claudio
 {
     internal class al75974
     {
-        Console.WriteLine("75974")
+        dsada
     }
 }
